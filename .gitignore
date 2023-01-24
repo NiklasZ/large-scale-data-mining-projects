@@ -1,3 +1,7 @@
 /project_1/data.csv
 /project_1/tutorial/
 /.idea/
+/project_1/q8_pipeline_cache/
+/project_1/glove.6B/
+/project_1/glove.6B.100d.txt.word2vec
+/project_1/glove.6B.zip
